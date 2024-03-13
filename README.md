@@ -1,20 +1,24 @@
-# Seneca Winter2023 IPC144 course 
+# Introduction to Programming in C - Winter 2023
 
-This repository is about my journey through the "Introduction to Programming in C" course at Seneca College in Winter 2023. 
-This course served as my gateway into the world of programming, laying the foundational stones for understanding and utilizing the C programming language, 
-which is one of the most powerful and widely used languages in the world of software development. This journey not only equipped me with technical skills 
-but also taught me to apply theoretical concepts in practical scenarios, preparing me for advanced topics in computer science and future software development projects.
+This is a repository documenting my journey through the Introduction to Programming in C course at Seneca College in Winter 2023. 
+This course was my gateway into the vast world of programming, where I learned the foundational concepts of the C programming language, a cornerstone in software development.
 
-# Variables and Data Types
-I gained a thorough understanding of C's data types, crucial for handling various data operations and ensuring efficient memory usage.
+## Course Overview
 
-# Control Structures
-I learned to use conditional logic and loops (if-else statements, for, while, and do-while loops) to control program flow, enabling decision-making and repetitive task automation.
+This course covered essential programming fundamentals, focusing on:
+- Variables and Data Types: Mastering C's basic building blocks.
+- Control Structures: Implementing logic flow with conditionals and loops.
+- Functions and Modular Programming: Developing reusable code pieces for better program structure.
+- Memory Management: Understanding dynamic memory allocation and pointers.
 
-# Functions and Modular Programming
-I developed the ability to design and implement functions, enhancing code reusability, readability, and maintenance. 
-Modular programming practices helped me break down complex problems into manageable pieces.
+## Skills Developed
 
-# Memory Management
-I delved into dynamic memory allocation and pointers, learning to manage memory directly, which is essential for writing efficient and adaptable programs.
+- **Problem-Solving**: Tackling programming challenges with efficient solutions.
+- **Critical Thinking**: Applying logic and structured thinking to develop clean, maintainable code.
+- **Technical Proficiency**: Gaining a deep understanding of the C programming language and its application in software development.
 
+## Assignments and Final Project
+
+Here, you'll find a collection of my assignments and final project that demonstrate my learning progress and application of the above concepts. 
+Through these assignments and the final project, I not only learned how to code in C but also how to think like a programmer, approaching problems with a logical, structured methodology. 
+This repository is a testament to my hard work, dedication, and passion for programming.
